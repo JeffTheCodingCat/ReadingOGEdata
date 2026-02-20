@@ -1,0 +1,15 @@
+C:\Users\xk1045013\Desktop\XK Capstone\ReadingOGEdata\bin\Debug\net10.0\ReadingOGEdata.exe
+C:\Users\xk1045013\Desktop\XK Capstone\ReadingOGEdata\bin\Debug\net10.0\ReadingOGEdata.deps.json
+C:\Users\xk1045013\Desktop\XK Capstone\ReadingOGEdata\bin\Debug\net10.0\ReadingOGEdata.runtimeconfig.json
+C:\Users\xk1045013\Desktop\XK Capstone\ReadingOGEdata\bin\Debug\net10.0\ReadingOGEdata.dll
+C:\Users\xk1045013\Desktop\XK Capstone\ReadingOGEdata\bin\Debug\net10.0\ReadingOGEdata.pdb
+C:\Users\xk1045013\Desktop\XK Capstone\ReadingOGEdata\obj\Debug\net10.0\ReadingOGEdata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xk1045013\Desktop\XK Capstone\ReadingOGEdata\obj\Debug\net10.0\ReadingOGEdata.AssemblyInfoInputs.cache
+C:\Users\xk1045013\Desktop\XK Capstone\ReadingOGEdata\obj\Debug\net10.0\ReadingOGEdata.AssemblyInfo.cs
+C:\Users\xk1045013\Desktop\XK Capstone\ReadingOGEdata\obj\Debug\net10.0\ReadingOGEdata.csproj.CoreCompileInputs.cache
+C:\Users\xk1045013\Desktop\XK Capstone\ReadingOGEdata\obj\Debug\net10.0\ReadingOGEdata.sourcelink.json
+C:\Users\xk1045013\Desktop\XK Capstone\ReadingOGEdata\obj\Debug\net10.0\ReadingOGEdata.dll
+C:\Users\xk1045013\Desktop\XK Capstone\ReadingOGEdata\obj\Debug\net10.0\refint\ReadingOGEdata.dll
+C:\Users\xk1045013\Desktop\XK Capstone\ReadingOGEdata\obj\Debug\net10.0\ReadingOGEdata.pdb
+C:\Users\xk1045013\Desktop\XK Capstone\ReadingOGEdata\obj\Debug\net10.0\ReadingOGEdata.genruntimeconfig.cache
+C:\Users\xk1045013\Desktop\XK Capstone\ReadingOGEdata\obj\Debug\net10.0\ref\ReadingOGEdata.dll
