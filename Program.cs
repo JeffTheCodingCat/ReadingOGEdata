@@ -4,46 +4,45 @@ class Program
 {
     static void Main(string[] args)
     {
+        List<AccessItem> data = Read();
+
+    }
+    public static List<AccessItem> Read()
+    {
         string filePath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "OGEdata.csv");
         using StreamReader reader = new StreamReader(filePath);
+        List<AccessItem> records = new List<AccessItem>();
         reader.ReadLine();
         string line;
-
         while ((line = reader.ReadLine()) != null)
         {
-            string[] words = line.Split(',');
-            //
-            if ()
+            string[] parts = line.Split(',');
+            AccessItem accitem = new AccessItem
             {
-            }
-            else
-            {
+                Display_Name = parts[0],
+                First_Name = parts[1],
+                Last_Name = parts[2],
+                Work_Email = parts[3],
+                if(parts[4] == "active"){ cloudLifecycleState = true; }else{ cloudLifycycleState = false; },
+                IdentityID = parts[5],
+                IsManager = parts[6],
+                Department = parts[7],
+                jobTitle = parts[8],
+                uid = parts[9],
+                Access_Type = parts[10],
+                Access_Source_Name = parts[11],
+                Access_Display_Name = parts[12],
+                Access_Description = parts[13]
             }
         }
         reader.Close();
+        return null;
     }
 }
 
 
-public struct Employee
+public struct AccessItem
 {
-    public Employee(string Display_Name, string First_Name, string Last_Name, string Work_Email, string cloudLifecycleState, string IdentityID, bool IsManager, string Department, string jobTitle, string uid, string Access_Type, string Access_Source_Name, string Access_Display_Name, string Access_Description)
-    {
-        this.Display_Name = Display_Name;
-        this.First_Name = First_Name;
-        this.Last_Name = Last_Name;
-        this.Work_Email = Work_Email;
-        if(cloudLifecycleState == "active"){ this.cloudLifecycleState = true; }else{ this.cloudLifecycleState = false; }
-        this.IdentityID = IdentityID;
-        this.IsManager = IsManager;
-        this.Department = Department;
-        this.jobTitle = jobTitle;
-        this.uid = uid;
-        this.Access_Type = Access_Type;
-        this.Access_Source_Name = Access_Source_Name;
-        this.Access_Display_Name = Access_Display_Name;
-        this.Access_Description = Access_Description;
-    }
     public string Display_Name { get; set; }
     public string First_Name { get; set; }
     public string Last_Name { get; set; }
