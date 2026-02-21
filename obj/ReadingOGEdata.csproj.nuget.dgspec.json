@@ -1,32 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\xk1045013\\Desktop\\XK Capstone\\ReadingOGEdata\\ReadingOGEdata.csproj": {}
+    "C:\\Users\\xaknu\\Desktop\\Capstone\\ReadingOGEdata\\ReadingOGEdata.csproj": {}
   },
   "projects": {
-    "C:\\Users\\xk1045013\\Desktop\\XK Capstone\\ReadingOGEdata\\ReadingOGEdata.csproj": {
+    "C:\\Users\\xaknu\\Desktop\\Capstone\\ReadingOGEdata\\ReadingOGEdata.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\xk1045013\\Desktop\\XK Capstone\\ReadingOGEdata\\ReadingOGEdata.csproj",
+        "projectUniqueName": "C:\\Users\\xaknu\\Desktop\\Capstone\\ReadingOGEdata\\ReadingOGEdata.csproj",
         "projectName": "ReadingOGEdata",
-        "projectPath": "C:\\Users\\xk1045013\\Desktop\\XK Capstone\\ReadingOGEdata\\ReadingOGEdata.csproj",
-        "packagesPath": "C:\\Users\\xk1045013\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\xk1045013\\Desktop\\XK Capstone\\ReadingOGEdata\\obj\\",
+        "projectPath": "C:\\Users\\xaknu\\Desktop\\Capstone\\ReadingOGEdata\\ReadingOGEdata.csproj",
+        "packagesPath": "C:\\Users\\xaknu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\xaknu\\Desktop\\Capstone\\ReadingOGEdata\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\xk1045013\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\xaknu\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
